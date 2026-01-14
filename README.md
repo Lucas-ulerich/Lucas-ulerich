@@ -13,5 +13,5 @@ Sou um **Backend Developer** apaixonado por construir sistemas robustos e eficie
 * Automação de ambientes de desenvolvimento
 
 📫 **Contato**
-* [LinkedIn]([(https://www.linkedin.com/in/lucas-ulerich/)])
-* [Medium]([(https://medium.com/@lucas-ulerich))]
+* [LinkedIn](https://www.linkedin.com/in/lucas-ulerich/)
+* [Medium](https://medium.com/@lucas-ulerich))

@@ -33,8 +33,7 @@ Minha caixa de ferramentas é focada em tecnologias de mercado para desenvolvime
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-ulerich&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0f6fc&text_color=c9d1d9" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-ulerich&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-ulerich&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
